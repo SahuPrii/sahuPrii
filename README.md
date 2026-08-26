@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on  **SRE/DevOps and Web Development**
+- 🔭 I’m currently working on  **SRE/DevOps, Software Testing and Web Development**
 - 🌱 I’m currently learning  **Software Testing, Test Automation, Selenium, Java, and DevOps practices**
 - 👯 I’m looking to collaborate on  **DevOps, SRE, Testing Automation, and Web Development projects**
 - 🤔 I’m looking for help with **Advanced Test Automation, CI/CD, and Cloud technologies**
