@@ -10,4 +10,4 @@
 - 💬 Ask me about : **SRE/DevOps, Frontend Development, Software Testing, SQL, and Linux**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/priyanshu-sahu-74b221242/?skipRedirect=true)**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy learning different areas of software engineering and turning what I learn into practical projects.**
+- ⚡ Fun fact: **I enjoy learning different areas of software engineering and turning what I learn into Practical Projects.**
